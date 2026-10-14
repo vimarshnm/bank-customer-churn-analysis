@@ -1,0 +1,2 @@
+# Count SQL files in GitHub's language statistics
+*.sql linguist-language=SQL linguist-detectable=true

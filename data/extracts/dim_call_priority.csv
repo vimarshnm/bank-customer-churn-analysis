@@ -1,0 +1,5 @@
+call_priority,call_priority_order,description
+"P1 High value",1,"Top 10% and balance >= 100,000 - call first"
+"P2 Mid value",2,"Top 10% and balance 0.01-99,999"
+"P3 No balance",3,"Top 10% and zero balance - call if capacity"
+"Not targeted",4,"Outside the top 10%"

@@ -1,0 +1,5 @@
+risk_tier,risk_tier_order,deciles,min_score,max_score,description
+"Very high",1,1,40,65,"Top 10% by risk score - the monthly call list"
+High,2,2-3,31,40,"Next 20% - candidates if calling capacity allows"
+Medium,3,4-6,20,31,"Middle 30% - monitor"
+Low,4,7-10,0,20,"Lowest 40% - no action"

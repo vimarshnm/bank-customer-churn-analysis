@@ -1,0 +1,5 @@
+tenure_band,tenure_band_order,tenure_from,tenure_to
+"0-2 yrs",1,0,2
+"3-5 yrs",2,3,5
+"6-8 yrs",3,6,8
+"9-10 yrs",4,9,10

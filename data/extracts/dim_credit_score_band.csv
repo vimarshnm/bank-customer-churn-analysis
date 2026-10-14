@@ -1,0 +1,6 @@
+credit_score_band,credit_score_band_order,score_from,score_to
+"Under 500",1,0,499
+500-599,2,500,599
+600-699,3,600,699
+700-799,4,700,799
+800+,5,800,850

@@ -1,0 +1,5 @@
+parameter,value,unit,description
+cost_per_call,10.0,"USD per customer called","Assumption: fully loaded cost of one retention call (agent time + admin). Everyone on the list is called, whether or not they would have left."
+deposit_margin_rate,0.01,"fraction of balance per year","Assumption: annual profit the bank earns on a retained deposit balance (net interest margin). Part 1 of a retained customer's value."
+save_rate,0.2,"fraction (0-1)","Assumption: share of called customers who WOULD have left but stay because of the call. Customers who were never going to leave cannot be ""saved""."
+value_per_customer_fixed,100.0,"USD per retained customer per year","Assumption: annual profit from fees and other products, regardless of balance. Part 2 of a retained customer's value."

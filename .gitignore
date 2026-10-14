@@ -1,0 +1,13 @@
+# Local database (rebuilt by scripts/build_db.sh)
+data/churn.db
+
+# Local copy of the downloaded CSV (the tracked copy is data/raw/)
+/Customer-Churn-Records.csv
+
+# Python
+__pycache__/
+.venv/
+
+# OS and Excel temporary files
+.DS_Store
+~$*
